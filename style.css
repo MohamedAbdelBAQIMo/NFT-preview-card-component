@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+.card{
+    background-color: hsl(216, 50%, 16%);
+    max-width: 300px;
+    margin:20px auto;
+    padding:20px;
+    border-radius: 50px;
+
+}
+#card-img{
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 80px;
+}
+#card-h1{
+    color:hsl(0, 0%, 100%);
+    font-family: outfit;
+}
+#card-p{
+    font-size: 14px;
+    font-family: outfit;
+}
+#span1,#span2{
+    font-family: outfit;
+    color:hsl(215, 51%, 70%);
+}
+#line{
+    color:hsl(215, 51%, 70%);
+}
+#c-img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+#c-p{
+color:hsl(0, 0%, 100%);
+display: flex;
+  align-items: center;
+}
+#co{
+    color:hsl(215, 51%, 70%);
+}
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
